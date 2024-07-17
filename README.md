@@ -1,2 +1,2 @@
 # BandScan
-Creating spotify playslists from music posters
+Creating spotify playlists from music posters
